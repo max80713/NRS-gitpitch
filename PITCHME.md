@@ -1,9 +1,9 @@
 @title[Introduction]
 ## 印出 Hello, World!
 
-### 基礎 JavaScript 語法
+#### 基礎 JavaScript 語法
 
----
++++
 
 ## Tips!
 

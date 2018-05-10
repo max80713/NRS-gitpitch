@@ -4,7 +4,7 @@
  * For details, visit Wiki:
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
-.reveal h3 {
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
   text-transform: none !important;
 }
 

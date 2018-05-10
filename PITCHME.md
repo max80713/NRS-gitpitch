@@ -1,4 +1,5 @@
-## 初探 JavaScript - 印出 Hello, World!
+## 初探 JavaScript
+## 印出 Hello, World!
 
 #### 基礎 JavaScript 語法
 

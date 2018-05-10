@@ -13,7 +13,7 @@
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
----
++++
 
 ## Template Features
 

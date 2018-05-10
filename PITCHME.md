@@ -1,28 +1,31 @@
-@title[Introduction]
 ## 印出 Hello, World!
 
 #### 基礎 JavaScript 語法
 
 +++
 
-## Tips!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
+## “印出 Hello, World!”
+## 是學習程式語言的第一課
 
 +++
 
-## Template Features
+- 最基本、最簡單的程式
+- 確認我們寫的程式可以跑
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Images |
-- Background Image Scaling |
-- Custom Logo, TOC, and Footnotes |
++++
+
+## 最基本、最簡單的程式長什麼樣子？
+
++++
+
+```c
+#include <stdio.h>
+int main(void)
+{
+  printf("Hello, world!\n");
+  return 0;
+}
+```
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 

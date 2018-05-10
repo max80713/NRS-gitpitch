@@ -45,7 +45,7 @@ int main()
 
 +++
 
-### C++
+### Java
 
 ```java
 public class Hello

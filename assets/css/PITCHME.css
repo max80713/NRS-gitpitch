@@ -4,6 +4,9 @@
  * For details, visit Wiki:
  * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
  */
+.reveal {
+  text-transform: none!important;
+}
 
 .reveal pre {
   width: 100%;

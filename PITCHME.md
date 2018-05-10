@@ -59,7 +59,7 @@ public class Hello
 
 +++
 
-### 說好的最簡單、最基本呢？
+### 說好的最基本、最簡單呢？
 
 +++
 
@@ -71,7 +71,11 @@ console.log('Hello, World!');
 
 +++
 
+### 我們寫好的程式要怎麼執行？
 
++++
+
+### 現代瀏覽器都可以執行 JavaScript
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 

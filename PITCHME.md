@@ -1,4 +1,4 @@
-## 印出 Hello, World!
+## 初探 JavaScript - 印出 Hello, World!
 
 #### 基礎 JavaScript 語法
 
@@ -10,7 +10,7 @@
 +++
 
 ### - 最基本、最簡單的程式
-### -  確認我們寫的程式可以跑
+### - 確認我們寫的程式可以跑
 
 +++
 
@@ -56,6 +56,22 @@ public class Hello
   }
 }
 ```
+
++++
+
+### 說好的最簡單、最基本呢？
+
++++
+
+### JavaScript
+
+```js
+console.log('Hello, World!');
+```
+
++++
+
+
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 

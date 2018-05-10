@@ -1,7 +1,7 @@
 @title[Introduction]
-# Envelope
+# 印出 Hello, World!
 
-### A GitPitch Presentation Template
+### 基礎 JavaScript 語法
 
 ---
 

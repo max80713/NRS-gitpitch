@@ -18,7 +18,7 @@
 
 +++
 
-### C 語言
+### C
 
 ```c
 #include <stdio.h>
@@ -40,6 +40,20 @@ int main()
 {
   cout << "Hello, world!" << endl;
   return 0;
+}
+```
+
++++
+
+### C++
+
+```java
+public class Hello
+{
+  public static void main(String[] args)
+  {
+    System.out.print("Hello, world!");
+  }
 }
 ```
 

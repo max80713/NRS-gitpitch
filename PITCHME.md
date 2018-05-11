@@ -8,7 +8,7 @@
 ### “印出 Hello, World!”
 ### 是學習程式語言的第一課
 - 最基本、最簡單的程式
-- 確認我們寫的程式可以
+- 確認我們寫的程式可以跑執行
 
 +++
 
@@ -73,7 +73,8 @@ console.log('Hello, World!');
 
 +++
 
-### 瀏覽器具有 JavaScript 引擎來執行 JavaScript
+### 瀏覽器具有 JavaScript 引擎
+### 來執行 JavaScript
 - Chrome: V8
 - Firefox: SpiderMonkey
 - Safari: JavaScriptCore

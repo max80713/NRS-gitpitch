@@ -1,6 +1,6 @@
 ## 打造線上聊天室網站
 ## JavaScript 前後端開發實戰
-##（NodeJS、ReactJS、SocketIO）
+## (NodeJS、ReactJS、SocketIO)
 
 ---
 

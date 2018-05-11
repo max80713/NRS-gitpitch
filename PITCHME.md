@@ -78,3 +78,9 @@ console.log('Hello, World!');
 - Chrome: V8
 - Firefox: SpiderMonkey
 - Safari: JavaScriptCore
+
+--- 
+
+## 註解 - 讓別人看得懂你的程式碼
+
+#### 基礎 JavaScript 語法
